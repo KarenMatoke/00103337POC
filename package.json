@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "snyk": "1.996.0",
-    "anuglar2-qrcode": "2.0.9998"
+    "snyk": "1.996.0"
   }
 }
